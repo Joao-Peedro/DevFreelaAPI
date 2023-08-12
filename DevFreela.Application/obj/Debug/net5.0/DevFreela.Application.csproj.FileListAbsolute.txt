@@ -1,0 +1,17 @@
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.deps.json
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.dll
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.pdb
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.dll
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.pdb
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.AssemblyReference.cache
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfoInputs.cache
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfo.cs
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CoreCompileInputs.cache
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CopyComplete
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.dll
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\refint\DevFreela.Application.dll
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.pdb
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Application\obj\Debug\net5.0\ref\DevFreela.Application.dll

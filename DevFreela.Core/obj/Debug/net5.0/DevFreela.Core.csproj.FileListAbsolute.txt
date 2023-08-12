@@ -1,0 +1,12 @@
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.deps.json
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.dll
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.pdb
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.dll
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\refint\DevFreela.Core.dll
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.pdb
+C:\Work\Repositorios\dotnet\FormacaoAspNetCore\DevFreela\DevFreela.Core\obj\Debug\net5.0\ref\DevFreela.Core.dll
