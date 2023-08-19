@@ -73,9 +73,9 @@ namespace DevFreela.Application.Services.Implementations
 				project.Id,
 				project.Title,
 				project.Description,
+				project.TotalCost,
 				project.StartedAt,
 				project.FinishedAt,
-				project.TotalCost,
 				project.Client.FullName,
 				project.Freelancer.FullName
 				);
