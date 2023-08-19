@@ -38,7 +38,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                     b.Property<int>("IdClient")
                         .HasColumnType("int");
 
-                    b.Property<int>("IdFrelaancer")
+                    b.Property<int>("IdFreelancer")
                         .HasColumnType("int");
 
                     b.Property<DateTime?>("StartedAt")
@@ -57,7 +57,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
 
                     b.HasIndex("IdClient");
 
-                    b.HasIndex("IdFrelaancer");
+                    b.HasIndex("IdFreelancer");
 
                     b.ToTable("Projects");
                 });
@@ -148,9 +148,14 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                     b.Property<int>("IdUser")
                         .HasColumnType("int");
 
+                    b.Property<int?>("SkillId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("IdSkill");
+
+                    b.HasIndex("SkillId");
 
                     b.ToTable("UserSkills");
                 });
@@ -165,7 +170,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
 
                     b.HasOne("DevFreela.Core.Entities.User", "Freelancer")
                         .WithMany("FreelanceProjects")
-                        .HasForeignKey("IdFrelaancer")
+                        .HasForeignKey("IdFreelancer")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
@@ -179,13 +184,13 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                     b.HasOne("DevFreela.Core.Entities.Project", "Project")
                         .WithMany("Comments")
                         .HasForeignKey("IdProject")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("DevFreela.Core.Entities.User", "User")
                         .WithMany("Comments")
                         .HasForeignKey("IdUser")
-                        .OnDelete(DeleteBehavior.Restrict)
+                        .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Project");
@@ -200,6 +205,12 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                         .HasForeignKey("IdSkill")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
+
+                    b.HasOne("DevFreela.Core.Entities.Skill", "Skill")
+                        .WithMany()
+                        .HasForeignKey("SkillId");
+
+                    b.Navigation("Skill");
                 });
 
             modelBuilder.Entity("DevFreela.Core.Entities.Project", b =>

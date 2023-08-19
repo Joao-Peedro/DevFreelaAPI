@@ -1,8 +1,7 @@
 ﻿namespace DevFreela.API.Models
 {
-	public class UpdateProjectModel
-	{
-		public string Descricao { get; set; }
-
-	}
+    public class UpdateProjectModel
+    {
+        public string Description { get; set; }
+    }
 }
